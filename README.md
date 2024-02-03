@@ -1,7 +1,9 @@
 Seguindo a mesma promissa dos repositorios :
 
 1º https://github.com/carlinhoshk/Repositorio-do-livro-POSIX-shell-script
+
 2º https://github.com/carlinhoshk/Estudos-Livro-Aprendendo-SQL
+
 3º https://github.com/carlinhoshk/Estudos-Livro-Desbravando-Java-OO
 
 esse é mais um repositorio para acompanhar e usar como rascunho em algum exercicio do livro . 
